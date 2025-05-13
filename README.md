@@ -1,14 +1,14 @@
 # 5280Ty
 
-Welcome to the digital HQ of **5280Ty** — a cybersecurity professional on the Red Team path, blending offensive security, system hardening, and hacker-style curiosity.
+Welcome to the digital HQ of **5280Ty** - a cybersecurity professional on the Red Team path, blending offensive security, system hardening, and hacker-style curiosity.
 
 ## Who I Am
 
 - **Tier 2 Help Desk** pro turning into a **pentester**
 - Armed with **CompTIA A+, Network+, Security+**
 - Red team apprentice with an eye toward **bug bounty hunting** and **malware analysis**
-- Building **Project Nyxline** — an integrated training and logging system for real-world hacking skills
-- Founder of **Redshift Protocol** — a mindset and a movement: defense through offense
+- Building **Project Nyxline**, an integrated training and logging system for real-world hacking skills
+- Founder of **Redshift Protocol**, a mindset and a movement: defense through offense
 
 ## Featured Repos
 
@@ -21,7 +21,7 @@ Welcome to the digital HQ of **5280Ty** — a cybersecurity professional on the 
   XSS testing and vulnerability chaining walkthrough from OWASP Juice Shop.
 
 - `linux-daily-driver.md`:  
-  Hardware upgrade and OS overhaul of a Dell Latitude into a maxed-out Pop!\_OS daily driver.
+  Hardware upgrade and OS overhaul of a Acer Aspire into a maxed-out Pop!\_OS daily driver.
 
 ## Tools & Interests
 
