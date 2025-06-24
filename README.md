@@ -20,8 +20,20 @@ Welcome to the digital HQ of **5280Ty** - a cybersecurity professional on the Re
 - `juice-shop-pentest.md`:  
   XSS testing and vulnerability chaining walkthrough from OWASP Juice Shop.
 
-- `linux-daily-driver.md`:  
-  Hardware upgrade and OS overhaul of a Acer Aspire into a maxed-out Pop!\_OS daily driver.
+- `vlan-segmentation-report.md`:  
+  Quarantine a vulnerable legacy printer on its own VLAN (VLAN isolation)
+
+- `nas-segmentation-report.md`:  
+  Segment a DIY NAS from primary office devices and optimize WiFi performance.
+  
+- `stealth-ssid-hardening.md`:  
+  Reduce wireless visibility to mitigate opportunistic attacks and casual wireless enumeration.
+
+- `daily-driver-report.md`:  
+  Hardware upgrade and OS overhaul of a Acer Aspire A315-58 into a maxed-out Pop!\_OS daily driver.
+
+- `parrot-es1572-field-report.md`:  
+  Hardware upgrade and OS overhaul of a Acer Aspire ES1-572-321G into a maxed-out Parrot Security OS offensive lab platform.
 
 ## Tools & Interests
 
