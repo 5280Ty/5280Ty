@@ -1,13 +1,13 @@
 # 5280Ty
 
-Welcome to the digital HQ of **5280Ty** - a cybersecurity professional on the Red Team path, blending offensive security, system hardening, and hacker-style curiosity.
+Welcome to the digital HQ of **5280Ty** - an IT professional on the Red Team path, blending offensive security, system hardening, and hacker-style curiosity.
 
 ## Who I Am
 
-- **Tier 2 Help Desk** pro turning into a **pentester**
+- **Tier 2 Help Desk** pro with an aspiration to become a **pentester**
 - Armed with **CompTIA A+, Network+, Security+**
 - Red team apprentice with an eye toward **bug bounty hunting** and **malware analysis**
-- Building **Project Nyxline**, an integrated training and logging system for real-world hacking skills
+- Building **Project Nyxline**, an integrated training and logging system for real-world hacking and defending skills
 - Founder of **Redshift Protocol**, a mindset and a movement: defense through offense
 
 ## Featured Repos
