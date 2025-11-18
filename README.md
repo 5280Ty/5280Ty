@@ -15,26 +15,26 @@ Welcome to the digital HQ of **5280Ty** - an IT professional on the Red Team pat
   Field reports, infrastructure creation, penetration testing logs, hardware mods, and recon exercises.
 
 ## Projects & Logs
-- `lab_rebuild.md`:  
-  Building and managing a fully developed homelab for research, training, system administration, network configuration, security, and problem solving. [lab_rebuild](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/lab_rebuild)
+- `Lab Rebuild`:  
+  Building and managing a fully developed homelab for research, training, system administration, network configuration, security, and problem solvingfollowing a full [Lab Rebuild](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/lab_rebuild)
 
-- `juice-shop-pentest.md`:  
-  XSS testing and vulnerability chaining walkthrough from OWASP Juice Shop.
+- `Juice Shop Pentest`:  
+  A Series of penetration testing and vulnerability chaining of the OWASP [Juice Shop](https://github.com/5280Ty/redshift-labs/tree/main/offsec-fieldwork/Juice-Shop-Series)
 
-- `vlan-segmentation-report.md`:  
+- `vlan segmentation Report`:  
   Quarantine a vulnerable legacy printer on its own VLAN (VLAN isolation)
 
-- `nas-segmentation-report.md`:  
+- `NAS Segmentation Report`:  
   Segment a DIY NAS from primary office devices and optimize WiFi performance.
   
-- `stealth-ssid-hardening.md`:  
-  Reduce wireless visibility to mitigate opportunistic attacks and casual wireless enumeration.
+- `SSID Hardening`:  
+  Reduce wireless visibility to mitigate opportunistic attacks and casual wireless enumeration through [SSID Hardening](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/stealth-ssid)
 
-- `daily-driver-report.md`:  
-  Hardware upgrade and OS overhaul of a Acer Aspire A315-58 into a maxed Pop!_OS daily driver.
+- `Daily Driver Report`:  
+  Hardware upgrade and OS overhaul of a Acer Aspire A315-58 into a maxed Pop!_OS [Linux daily driver.](https://https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/daily-drivergithub.com/5280Ty/redshift-labs/tree/main/infra-projects/daily-driver)
 
-- `parrot-es1572-field-report.md`:  
-  Hardware upgrade and OS overhaul of a Acer Aspire ES1-572-321G into a Parrot Security OS offensive lab platform.
+- `Parrot OS es1572 Report`:  
+  Hardware upgrade and OS overhaul of a Acer Aspire ES1-572-321G into a [Parrot Security OS](https://github.com/5280Ty/redshift-labs/blob/main/infra-projects/parrot-laptop/parrot-es1572-field-report.md) offensive lab platform.
 
 ## Tools & Interests
 
