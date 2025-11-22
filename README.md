@@ -31,7 +31,7 @@ Welcome to the digital HQ of **5280Ty** - an IT professional on the Red Team pat
   Reduce wireless visibility to mitigate opportunistic attacks and casual wireless enumeration through [SSID Hardening](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/stealth-ssid)
 
 - `Daily Driver Report`:  
-  Hardware upgrade and OS overhaul of a Acer Aspire A315-58 into a maxed Pop!_OS [Linux daily driver.](https://https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/daily-drivergithub.com/5280Ty/redshift-labs/tree/main/infra-projects/daily-driver)
+  Hardware upgrade and OS overhaul of a Acer Aspire A315-58 into a maxed Pop!_OS [Linux daily driver.](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/daily-driver)
 
 - `Parrot OS es1572 Report`:  
   Hardware upgrade and OS overhaul of a Acer Aspire ES1-572-321G into a [Parrot Security OS](https://github.com/5280Ty/redshift-labs/blob/main/infra-projects/parrot-laptop/parrot-es1572-field-report.md) offensive lab platform.
