@@ -21,8 +21,8 @@ Welcome to the digital HQ of **5280Ty** - an IT professional on the Red Team pat
 - `Juice Shop Pentest`:  
   A Series of penetration testing and vulnerability chaining of the OWASP [Juice Shop](https://github.com/5280Ty/redshift-labs/tree/main/offsec-fieldwork/Juice-Shop-Series)
 
-- `vlan segmentation Report`:  
-  Quarantine a vulnerable legacy printer on its own VLAN (VLAN isolation)
+- `Printer Hardening`:  
+  Hardening a vulnerable legacy printer on a flat network.
 
 - `NAS Segmentation Report`:  
   Segment a DIY NAS from primary office devices and optimize WiFi performance.
