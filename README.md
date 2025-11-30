@@ -46,12 +46,12 @@ Welcome to the digital HQ of **Ty** - an IT professional on the Red Team path, b
 
 ## Tools & Interests
 
-- Web app pentesting | Burp Suite | FFUF | Wordlist crafting  
+- [Web app pentesting](https://github.com/5280Ty/redshift-labs/tree/main/offsec-fieldwork) | Burp Suite | FFUF | Wordlist crafting  
 - Recon workflows | Custom OS builds | Network segmentation  
 - Flipper Zero | Lock picking | Tinkering with routers & VLANs
 - AD Hardening | Network Monitoring | Infrastructure Design
-- Machine building and upgrading  
-- Always learning, always building
+- Machine building and [upgrading](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects/parrot-laptop)  
+- Always learning, always [building](https://github.com/5280Ty/redshift-labs/tree/main/infra-projects)
 
 ---
 
