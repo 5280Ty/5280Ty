@@ -8,7 +8,7 @@ Welcome to the digital HQ of **Ty** - an IT professional on the Red Team path, b
 - **Tier 2 Help Desk** pro with an aspiration to become a **pentester**
 - Armed with **CompTIA A+, Network+, Security+**
 - Building **Project Nyxline**, a system for real-world IT Admin, hacking, and defending skills
-- Founder of **Redshift Protocol**, a mindset and a movement: defense through offense
+- Founder of **Redshift Protocol**, a mindset: defense through offense
 
 ---
 
