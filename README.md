@@ -36,14 +36,11 @@ Welcome to the digital HQ of **Ty** - an IT professional on the Red Team path, b
 - `Parrot OS Pentesting Laptop`:  
   Hardware upgrade and OS overhaul of a Acer Aspire ES1-572-321G into a [Parrot Security OS](https://github.com/5280Ty/redshift-labs/blob/main/infra-projects/parrot-laptop/parrot-es1572-field-report.md) offensive lab platform.
 
+- `Printer Hardening`:  
+  Hardening a vulnerable [legacy printer](https://github.com/5280Ty/redshift-labs/blob/main/infra-projects/lab_rebuild/Day_3_Printer_Hardening_&_LAG_Implementation.md) on a flat network.
+
 - `Debloating & Hardening a Windows Laptop`:  
   Coming Soon.
-
-- `Printer Hardening`:  
-  Hardening a vulnerable legacy printer on a flat network.
-
-- `NAS Segmentation Report`:  
-  Segment a DIY NAS from primary office devices and optimize WiFi performance.
 
 ---
 
