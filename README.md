@@ -1,5 +1,5 @@
 # 
-Welcome to the digital HQ of **Ty** - an IT professional on the Red Team path, blending offensive security, system hardening, and hacker-style curiosity.
+Welcome to the digital HQ of **Ty** - an IT professional on the Red Team path, blending offensive security & system hardening.
 
 ---
 
